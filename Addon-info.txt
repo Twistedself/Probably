@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Probably>
+	<addon name="Probably_Destro54" author="Charus" version="1.6">
+		<github link="https://github.com/Twistedself/Probably"/>
+		<support link="https://probablyengine.com/forum/"/>
+	</addon>
+</Probably>
